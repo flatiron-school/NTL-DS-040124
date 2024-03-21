@@ -1,6 +1,6 @@
 # NTL-DS-040124's Cohort Repository!
 
-A repository for all lecture, review, and other resources for the Flatiron School's Live Data Science 040124 Cohort.
+A repository for all lectures, reviews, and other resources for the Flatiron School's Live Data Science 040124 Cohort.
 
 ![cool data graphic from gihpy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tmZDFtcnc5ZWUzeHFqeTZsMmx4Mnhyajd6cXNhZ3k2MTVtOWhwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
@@ -26,6 +26,7 @@ git add [filename]
 git commit -m 'message here'
 git push origin main
 ```
+### I would encourage everyone to push daily!
 
 ### Whenever you want to get newly added material (will be announced):
 
